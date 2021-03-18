@@ -1,2 +1,2 @@
 # pattern
-Contains the code for patterns of Alphabets Numbers and Symbols
+Contains the code program  for patterns of Alphabets Numbers and Symbols 
